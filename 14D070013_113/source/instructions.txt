@@ -1,0 +1,15 @@
+ENIGMA MESSENGER
+username and password for graphics are 'apoorv' and 'enter' respectively.
+follow the given instructions to run the program
+cc: caeser cipher
+b64: base sixty four
+ENIGMATE
+-to encode your message, type in your message in the enigmate text box.
+-then save it and run enigmate cc.exe or enigmate b64.exe application.
+-your ciphered image would be exported named output.jpg
+DE-ENIGMATE
+-to decode the the image, copy it to this directory.
+-name it de-enigmate.jpg and run de-enigmate cc.exe de-enigmate b64.exe application.
+-your hidden message would be exported as message.txt
+HELP
+-for more queries, you can mail us at pratapsurya181995@gmail.com
